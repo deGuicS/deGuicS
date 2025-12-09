@@ -1,7 +1,6 @@
 # Welcome!
 ## I'm Guilherme! Let me present a little about myself :D
 Full-Stack focused in Node.js | Software engineer :robot:
-Lover of Technology and coding :heart:
 
 
   <img align="right" alt="GIF" 
