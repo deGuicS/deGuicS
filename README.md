@@ -3,11 +3,12 @@
 Full-Stack focused in Node.js | Software engineer :robot:
 Lover of Technology and coding :heart:
 
-<br />
 
   <img align="right" alt="GIF" 
      src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-     height="300" />
+     height="300" 
+     style="margin-left: 25px;"
+    />
 
 **About Me!**
 
